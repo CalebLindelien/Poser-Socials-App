@@ -1,4 +1,3 @@
-// When importing different files into other files we can just start from src
 {
     "compilerOptions": {
         "baseUrl": "src"
