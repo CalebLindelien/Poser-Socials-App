@@ -10,7 +10,6 @@ router.get("/", verifyToken, getFeedPosts);
 // Grab the specific users posts
 router.get("/:userId/posts", verifyToken, getUserPosts);
 
-
 /* UPDATE */
 // Like a post or unliking
 router.patch("/:id/like", verifyToken, likePost);
