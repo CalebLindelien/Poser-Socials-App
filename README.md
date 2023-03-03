@@ -13,10 +13,13 @@ This project is a MERN stack social media platform for people who like to fake t
 ## Screenshots
 Dark Mode Home Page
 <img width="1422" alt="DarkUI" src="https://user-images.githubusercontent.com/98850200/222643376-a7531c78-c3e7-4f6c-82dd-f7c2668ef3cf.png">
+___
 Light Mode Home Page
 <img width="1427" alt="LightUI" src="https://user-images.githubusercontent.com/98850200/222643414-cbc2e1a5-a43b-42de-8daf-66db6361b354.png">
+___
 Log In View
 <img width="1434" alt="LogIn" src="https://user-images.githubusercontent.com/98850200/222643423-2af1155f-b662-42bc-a704-1fc91fb6607d.png">
+___
 Mobile View
 <img width="332" alt="MobileView" src="https://user-images.githubusercontent.com/98850200/222643435-3ece895f-a704-4e13-ad25-c527821e16bb.png">
 
